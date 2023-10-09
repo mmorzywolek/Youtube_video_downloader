@@ -1,2 +1,2 @@
-pytube
-stremamlit
+pytube==15.0.0
+streamlit==1.27.2
